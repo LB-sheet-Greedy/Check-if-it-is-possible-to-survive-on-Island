@@ -9,13 +9,11 @@ in a week (6*N) is greater then or equal to total food we require to survive in 
 
 also M should be < N else we won't be able to survive
 
-If any of the above conditions are not true then we can’t survive else the minimum number of days required to buy food 
+If any of the above conditions are not true then we canâ€™t survive else the minimum number of days required to buy food 
 will be = ceil(total food required/units of food we can buy each day).
 
 TC: O(1) 
 SC: O(1)
-
-ISSUE >> Vo ceiling wala part nhi samza
 
 */
 
